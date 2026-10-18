@@ -4,8 +4,6 @@ A chatbot that answers questions about the **University of Peshawar** using the 
 
 It shows the **source file and page number** with every answer, and when it cannot find something it says so instead of guessing. It runs offline and needs **no API key**.
 
-![University Chatbot home screen](screenshots/home-screen.jpeg)
-
 ## Features
 
 - Reads PDF and TXT files from the `docs/` folder
@@ -24,11 +22,7 @@ Tested with the **BS Brochure 2026**:
 | What is the eligibility for Physics? | F.Sc (Pre-Medical/Pre-Engg.) with at least 45% marks, 130 seats |
 | What is the fee for Physics? | Rs 54,500 per semester (subsidized fee), Rs 70,000 (non-subsidized) |
 | What is the last date to apply? | 27 September 2026 |
-| What is the eligibility for Computer Science? | Not found, because the BS brochure has no Computer Science program |
-
-![Example questions and answers in the chatbot](screenshots/example-answers.jpeg)
-
-![Chatbot showing the last-date answer and a not-found response](screenshots/not-found-example.jpeg)
+| What is the eligibility for Computer Science? | Not found, because the BS brochure has no Computer Science program.
 
 ## How it works
 
