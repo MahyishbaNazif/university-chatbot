@@ -4,7 +4,7 @@ A chatbot that answers questions about the **University of Peshawar** using the 
 
 It shows the **source file and page number** with every answer, and when it cannot find something it says so instead of guessing. It runs offline and needs **no API key**.
 
-![Chatbot answer](screenshots/answer.png)
+![University Chatbot home screen](screenshots/home-screen.jpeg)
 
 ## Features
 
@@ -26,7 +26,9 @@ Tested with the **BS Brochure 2026**:
 | What is the last date to apply? | 27 September 2026 |
 | What is the eligibility for Computer Science? | Not found, because the BS brochure has no Computer Science program |
 
-![Not found example](screenshots/not-found.png)
+![Example questions and answers in the chatbot](screenshots/example-answers.jpeg)
+
+![Chatbot showing the last-date answer and a not-found response](screenshots/not-found-example.jpeg)
 
 ## How it works
 
